@@ -1,7 +1,6 @@
 1.
 The example uses a WHERE clause to show the population of 'France'. 
 
-
 SELECT population 
     FROM world 
     WHERE name like 'France%'
